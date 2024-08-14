@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "66530836759fc52dda8a3cd6"
+  },
+  "user": {
+    "$oid": "6653056e759fc52dda8a3c6e"
+  },
+  "rating": 4,
+  "review": "good",
+  "course": {
+    "$oid": "66530704759fc52dda8a3c85"
+  },
+  "__v": 0
+}]

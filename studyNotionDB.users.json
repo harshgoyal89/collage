@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6653056e759fc52dda8a3c6e"
+  },
+  "firstName": "Vineet",
+  "lastName": "Kumar",
+  "email": "vk73511390@gmail.com",
+  "password": "$2a$10$zk96UF2Pvo9wltJIDBW3JOjts1QFnM8aGiamN6hxXSd1C1pykooW2",
+  "accountType": "student",
+  "active": true,
+  "approved": true,
+  "additionalDetails": {
+    "$oid": "6653056e759fc52dda8a3c6c"
+  },
+  "courses": [
+    {
+      "$oid": "66530704759fc52dda8a3c85"
+    }
+  ],
+  "image": "https://api.dicebear.com/5.x/initials/svg?seed=Vineet Kumar",
+  "courseProgress": [
+    {
+      "$oid": "66530838759fc52dda8a3cdb"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-26T09:48:30.556Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T10:00:24.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665305fd759fc52dda8a3c7c"
+  },
+  "firstName": "Vineet",
+  "lastName": "Kumar",
+  "email": "vk7351139037@gmail.com",
+  "password": "$2a$10$v7D1yrcxr2rEI6PmEEF6mO5soW0Yrtp6zS.5CSwBFg3CBMSackQBe",
+  "accountType": "instructor",
+  "active": true,
+  "approved": true,
+  "additionalDetails": {
+    "$oid": "665305fd759fc52dda8a3c7a"
+  },
+  "courses": [
+    {
+      "$oid": "66530704759fc52dda8a3c85"
+    }
+  ],
+  "image": "https://api.dicebear.com/5.x/initials/svg?seed=Vineet Kumar",
+  "courseProgress": [],
+  "createdAt": {
+    "$date": "2024-05-26T09:50:53.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T09:55:16.990Z"
+  },
+  "__v": 0
+}]

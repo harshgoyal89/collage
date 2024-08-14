@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "66523fb2490029698f88617f"
+  },
+  "name": "Books",
+  "description": "A wide variety of books",
+  "courses": [
+    {
+      "$oid": "6652400f328d16a0e1a0bd57"
+    },
+    {
+      "$oid": "66530704759fc52dda8a3c85"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66530b15b273949ef2966921"
+  },
+  "name": "Al",
+  "description": "learn ai"
+},
+{
+  "_id": {
+    "$oid": "66530bd1b273949ef2966924"
+  },
+  "name": "python",
+  "description": "learn python"
+},
+{
+  "_id": {
+    "$oid": "66530bf1b273949ef2966925"
+  },
+  "name": "language",
+  "description": "A wide variety of books"
+},
+{
+  "_id": {
+    "$oid": "66530bffb273949ef2966926"
+  },
+  "name": "web devlopment",
+  "description": "A wide variety of books"
+}]

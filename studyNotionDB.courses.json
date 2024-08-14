@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "66530704759fc52dda8a3c85"
+  },
+  "courseName": "python",
+  "courseDescription": "Are you interested in mastering Python, the most popular programming language for data science and software development? Look no further! This course, offered by IBM on Coursera, covers essential Python concepts and practical skills. Whether you’re a beginner or want to enhance your existing knowledge, this course has got you covered",
+  "instructor": {
+    "$oid": "665305fd759fc52dda8a3c7c"
+  },
+  "whatYouWillLearn": "Learn Python: Dive into Python programming logic, covering variables, data structures, branching, loops, functions, objects, and classes.\r\nProficiency with Libraries: Gain proficiency in using Python libraries such as Pandas and Numpy.\r\nJupyter Notebooks: Develop code using Jupyter Notebooks.\r\nWeb Scraping: Learn how to access and scrape data using APIs and Python libraries like Beautiful Soup.\r\nBy the end of this course, you’ll feel comfortable creating basic programs, working with data, and automating real-world tasks using Python. Whether you’re interested in data science, data analytics, software development, data engineering, AI, or DevOps, this course provides a solid foundation.",
+  "courseContent": [
+    {
+      "$oid": "6653070e759fc52dda8a3c89"
+    },
+    {
+      "$oid": "66530722759fc52dda8a3c8d"
+    }
+  ],
+  "ratingAndReviews": [
+    {
+      "$oid": "66530836759fc52dda8a3cd6"
+    }
+  ],
+  "price": 999,
+  "thumbnail": "https://res.cloudinary.com/dc1xxz11w/image/upload/v1716717316/Codehelp/bg4oj9w1i4dykvrr9fcr.jpg",
+  "tag": [
+    "learn python",
+    "python"
+  ],
+  "category": {
+    "$oid": "66523fb2490029698f88617f"
+  },
+  "studentsEnrolled": [
+    {
+      "$oid": "6653056e759fc52dda8a3c6e"
+    }
+  ],
+  "instructions": [
+    "Learn Python",
+    "Jupyter Notebooks"
+  ],
+  "status": "published",
+  "createdAt": {
+    "$date": "2024-05-26T09:55:16.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-26T10:00:22.319Z"
+  },
+  "__v": 0
+}]

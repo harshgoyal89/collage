@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "66530838759fc52dda8a3cdb"
+  },
+  "courseId": {
+    "$oid": "66530704759fc52dda8a3c85"
+  },
+  "userId": {
+    "$oid": "6653056e759fc52dda8a3c6e"
+  },
+  "completedVideos": [
+    {
+      "$oid": "66530788759fc52dda8a3c95"
+    }
+  ],
+  "__v": 1
+}]
